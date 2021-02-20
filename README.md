@@ -9,9 +9,9 @@ First, install pygame with pip.
 ```bash
 pip install pygame
 ```
-(if you have multiple versions of python installed, try using ```bash pip3 ``` instead)
+(if you have multiple versions of python installed, try using ```pip3``` instead)
 Next, run the program with Python3.
 ```bash
 python PongPi.py
 ```
-(again, if you have multiple version of Python, use ```bash python3 ``` instead)
+(again, if you have multiple version of Python, use ```python3``` instead)
