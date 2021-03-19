@@ -1,8 +1,8 @@
-#Pong Pi
+# Pong Pi
 
 Pong Pi is a quick imitation of the classic game Pong using Python3 and PyGame
 
-#Setup
+# Setup
 
 If you'd like to run this project yourself, use the following steps:
 First, install pygame with pip.
